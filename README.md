@@ -1,0 +1,1 @@
+Simple Flask Application to query on chatGPT using OpenAI api's
